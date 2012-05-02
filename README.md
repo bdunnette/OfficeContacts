@@ -16,5 +16,5 @@ It comes with a test set of 1000 records.
 
 Next step will be implementing sorting by clicking on a column header.
 
-the test project is at: git@github.com:eric-naguras/MyApp.git
+the test project is at: git://github.com/eric-naguras/MyApp.git
 
