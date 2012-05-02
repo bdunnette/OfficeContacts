@@ -11,7 +11,7 @@ To everyone one following this project:
 I'm trying out some things in a seperate project.
 Later I will incorporate those things into this project.
 
-The other project has a working pager for browsing through a loarge record set.
+The other project has a working pager for browsing through a large record set.
 It comes with a test set of 1000 records.
 
 Next step will be implementing sorting by clicking on a column header.
